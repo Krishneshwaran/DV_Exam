@@ -1,1 +1,1 @@
-ploty
+ploty=5.24.1
