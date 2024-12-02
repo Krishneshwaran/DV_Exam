@@ -1,1 +1,2 @@
 ploty==5.21.0
+streamlit
